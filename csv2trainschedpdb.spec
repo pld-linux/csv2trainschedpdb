@@ -5,7 +5,7 @@ Version:	0.3
 Release:	1
 License:	GPL
 Group:		Utilities
-Source0:	http://dl.sourceforge.net/sourceforge/csv2trainschedpdb/csv2trainschedpdb-src-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/sourceforge/trainsched/%{name}-csv2trainschedpdb-src-%{version}.tar.gz
 # Source0-md5:	d9c82554158a019f3cb39de6d417a2f7
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
