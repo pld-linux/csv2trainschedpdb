@@ -1,5 +1,5 @@
 Summary:	Converts CSV into a PDB - for PDA
-Summary(pl):	Konwersja CSV do PDB - dla PDA
+Summary(pl.UTF-8):   Konwersja CSV do PDB - dla PDA
 Name:		csv2trainschedpdb
 Version:	0.3
 Release:	1
@@ -13,9 +13,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A tool for converting CSV train/bus databases into PDB readable by
 trainsched at your PalmOS.
 
-%description -l pl
-Narzêdzie konwertuj±ce plany poci±gów/autobusów z CSV do PDB, które
-mog± zostaæ odczytane przez trainscheda na PalmOS.
+%description -l pl.UTF-8
+NarzÄ™dzie konwertujÄ…ce plany pociÄ…gÃ³w/autobusÃ³w z CSV do PDB, ktÃ³re
+mogÄ… zostaÄ‡ odczytane przez trainscheda na PalmOS.
 
 %prep
 %setup -q -n %{name}-src-%{version}
