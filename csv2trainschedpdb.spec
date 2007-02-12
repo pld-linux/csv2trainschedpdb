@@ -1,5 +1,5 @@
 Summary:	Converts CSV into a PDB - for PDA
-Summary(pl.UTF-8):   Konwersja CSV do PDB - dla PDA
+Summary(pl.UTF-8):	Konwersja CSV do PDB - dla PDA
 Name:		csv2trainschedpdb
 Version:	0.3
 Release:	1
